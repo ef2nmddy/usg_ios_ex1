@@ -1,2 +1,2 @@
 # usg_ios_ex1
-usg ios수업 연습
+연습용으로 수정한 md파일 입니다.
